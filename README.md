@@ -30,25 +30,6 @@ Required Python libraries (listed in requirements.txt)
 Installation
 Clone the repository:
 
-Copy code
-git clone https://github.com/yourusername/amazon-eda-project.git
-cd amazon-eda-project
-Create a virtual environment and activate it:
-
-Copy code
-python3 -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
-Install the required libraries:
-
-Copy code
-pip install -r requirements.txt
-Running the Analysis
-Launch Jupyter Notebook:
-
-Copy code
-jupyter notebook
-Open the notebook in the notebooks/ directory to follow along with the EDA process.
-
 Contributions
 Feel free to contribute to this project by opening issues or submitting pull requests. Any improvements or additional analyses are welcome.
 
